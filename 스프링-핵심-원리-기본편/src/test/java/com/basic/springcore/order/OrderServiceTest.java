@@ -6,7 +6,7 @@ import com.basic.springcore.member.MemberServiceImpl;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class OrderServiceTest {
+class OrderServiceTest {
 
     MemberServiceImpl memberService = new MemberServiceImpl();
     OrderService orderService = new OrderServiceImpl();
