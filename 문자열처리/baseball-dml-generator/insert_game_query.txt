@@ -1,0 +1,15 @@
+INSERT INTO game(id, home_id, away_id) VALUES (1, 13, 20);
+INSERT INTO game(id, home_id, away_id) VALUES (2, 16, 22);
+INSERT INTO game(id, home_id, away_id) VALUES (3, 28, 8);
+INSERT INTO game(id, home_id, away_id) VALUES (4, 4, 6);
+INSERT INTO game(id, home_id, away_id) VALUES (5, 24, 10);
+INSERT INTO game(id, home_id, away_id) VALUES (6, 2, 23);
+INSERT INTO game(id, home_id, away_id) VALUES (7, 5, 25);
+INSERT INTO game(id, home_id, away_id) VALUES (8, 19, 12);
+INSERT INTO game(id, home_id, away_id) VALUES (9, 30, 18);
+INSERT INTO game(id, home_id, away_id) VALUES (10, 1, 15);
+INSERT INTO game(id, home_id, away_id) VALUES (11, 3, 7);
+INSERT INTO game(id, home_id, away_id) VALUES (12, 29, 9);
+INSERT INTO game(id, home_id, away_id) VALUES (13, 17, 26);
+INSERT INTO game(id, home_id, away_id) VALUES (14, 27, 11);
+INSERT INTO game(id, home_id, away_id) VALUES (15, 14, 21);
