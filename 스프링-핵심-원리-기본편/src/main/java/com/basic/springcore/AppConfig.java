@@ -14,6 +14,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class AppConfig {
 
+    // 빈의 key는 "memberService"
+    // 빈의 value는 new MemberServiceImpl(memberRepository())
     @Bean
     public MemberService memberService() {
         return new MemberServiceImpl(memberRepository());
