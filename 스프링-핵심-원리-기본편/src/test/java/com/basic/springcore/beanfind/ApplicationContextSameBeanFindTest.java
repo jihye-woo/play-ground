@@ -1,4 +1,4 @@
-package com.basic.springcore;
+package com.basic.springcore.beanfind;
 
 import com.basic.springcore.member.MemberRepository;
 import com.basic.springcore.member.MemoryMemberRepository;

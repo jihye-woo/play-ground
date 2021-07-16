@@ -1,5 +1,6 @@
-package com.basic.springcore;
+package com.basic.springcore.beanfind;
 
+import com.basic.springcore.AppConfig;
 import com.basic.springcore.member.MemberService;
 import com.basic.springcore.member.MemberServiceImpl;
 import org.assertj.core.api.Assertions;
